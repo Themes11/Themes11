@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Themes11
-- 👀 I’m interested in Backend development using Node.js
-- 🌱 I’m currently working to get better at node.js, express.js, databases and other backend skills
-- 💞️ I’m looking to collaborate on projects involving backend development
+- 👋 Hi, I’m @Oluwatimileyin
+- 👀 I’m interested in Machine Learning and Control theory
+- 🌱 I’m currently working to get better at the control of nonlinear systems
+- 💞️ I’m looking to collaborate on projects involving the application of machine learning in systems control.
 - 📫 How to reach me:
 
 <!---
